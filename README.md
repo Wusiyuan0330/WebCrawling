@@ -1,2 +1,2 @@
 # webCrawling
-# WebCrawling
+目前fundraisingCrawler基本实现自动化爬取"Fundraising"页面数据
